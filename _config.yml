@@ -5,7 +5,7 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Alvaro I. Mangual # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -18,23 +18,23 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: alvaro.i.mangual@gmail.com
   behance:
-  bitbucket:
+  bitbucket: aimangual
   dribbble: 
   facebook: 
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: aimangual
   google_plus:
   instagram: 
   linkedin:  # Full URL
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  http://stackexchange.com/users/6910170/alvaro-mangual
   steam:
   tumblr:
-  twitter: 
+  twitter: alvaromangual
   wordpress:
   youtube:
 
@@ -68,7 +68,7 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
